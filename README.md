@@ -1,10 +1,5 @@
-> *"Quotes are silly"*
-> \- Me
-
-## Hello!
-
-Hello! What is you least favorite letter?
+uhhhhhhhhhh
 
 ## Contacts
 
-- No.
+- Mastodon: [@NyxAlexandra@tech.lgbt](https://tech.lgbt/@NyxAlexandra)
